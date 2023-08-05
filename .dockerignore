@@ -1,0 +1,3 @@
+# Exclude logs directory from Docker build
+logs/
+
